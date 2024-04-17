@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherAPP</string>
+    <string name="tv_units">°c</string>
+    <string name="tv_failedconnection">OOPS - THERE SEEMS TO BE NO CONNECTION, PLEASE TRY AGAIN.</string>
+    <string name="btn_retry">°RETRY</string>
+    <string name="temp_temp">00</string>
+</resources>
